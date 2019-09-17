@@ -301,7 +301,7 @@ try DevTools.
        </figcaption>
      </figure>
 
-3. Press `Command` + `Enter` (Mac) or `Control` + `Enter`
+3. Press `Command` + `Enter` (macOS) or `Control` + `Enter`
    (Windows) to save your changes, or click outside of the box.
    Your changes automatically show up in the live view of your page. The text `Your site!`
    has been replaced with the new content.
