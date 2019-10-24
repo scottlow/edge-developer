@@ -366,7 +366,7 @@ How does a page look and behave when some of the page resources are not availabl
 
 1.  Uncheck the **Enable request blocking** checkbox.  
 
-## Next steps   
+## Conclusion   
 
 Congratulations, you have completed the tutorial.  You now know how to use the Network panel in the Microsoft Edge DevTools!
 
