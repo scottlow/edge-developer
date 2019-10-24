@@ -368,7 +368,7 @@ How does a page look and behave when some of the page resources are not availabl
 
 ## Next steps   
 
-Congratulations, you have completed the tutorial.  Click **Dispense Award** to receive your award.  
+Congratulations, you have completed the tutorial.  You now know how to use the Network panel in the Microsoft Edge DevTools!
 
 
 
